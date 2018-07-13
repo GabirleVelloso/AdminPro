@@ -6,6 +6,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 - enter in the customer page /client
 - install the package node  -- npm install
 - run the server -- ng serve
+- Angular CLI (1.7.4)
 - PORT 4200 - http://localhost:4200
 
 ## Development server

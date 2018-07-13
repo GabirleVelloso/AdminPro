@@ -18,8 +18,7 @@ import { BreadcrumbsComponent } from './breadcrumbs/breadcrumbs.component';
         NopagefoundComponent,
         HeaderComponent,
         SidebarComponent,
-        BreadcrumbsComponent,
- 
+        BreadcrumbsComponent
     ]
 })
 export class SharedModule { }
