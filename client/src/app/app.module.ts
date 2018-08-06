@@ -13,6 +13,9 @@ import { AppComponent } from './app.component';
 import { LoginComponent } from './login/login.component';
 import { RegisterComponent } from './login/register.component';
 
+import { ServiceModule } from './services/service.module';
+
+
 
 @NgModule({
   declarations: [
@@ -24,7 +27,8 @@ import { RegisterComponent } from './login/register.component';
     BrowserModule,
     FormsModule,
     APP_ROUTES,
-    PagesModule
+    PagesModule,
+    ServiceModule
   ],
   providers: [],
   bootstrap: [AppComponent]
